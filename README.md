@@ -1,7 +1,8 @@
 # Hi, I'm Shamayal! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQzODE4NDhhZjVkOThhMWJhOGJlODZhZTA1OGVjYzJkZDBkM2Y1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UnyblOs6hGx9Mli7jq/giphy.gif" width="45" alt="GIF">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamayal-syed/)
-[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shamayal.me/)
+[![Personal Website](https://img.shields.io/badge/website-FEBF2A?style=for-the-badge&logo=About.me&logoColor=e034bb)](https://shamayal.me/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shamayal)
 
 📬 : shamayal.syed@outlook.com
 
