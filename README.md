@@ -1,4 +1,4 @@
-# Hi, I'm Shamayal! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQzODE4NDhhZjVkOThhMWJhOGJlODZhZTA1OGVjYzJkZDBkM2Y1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UnyblOs6hGx9Mli7jq/giphy.gif" width="25" alt="GIF">
+# Hi, I'm Shamayal! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQzODE4NDhhZjVkOThhMWJhOGJlODZhZTA1OGVjYzJkZDBkM2Y1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UnyblOs6hGx9Mli7jq/giphy.gif" width="45" alt="GIF">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamayal-syed/)
 [![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shamayal.me/)
@@ -50,5 +50,4 @@ Currently, I'm looking for my first role as a junior developer. I am eager to co
 ## 🔥 My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shamayal&theme=sunset-gradient&border_radius=10)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamayal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
