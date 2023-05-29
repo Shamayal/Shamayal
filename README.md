@@ -1,7 +1,4 @@
-<div style="display: inline-flex; align-items: center;">
-  <h1 style="margin-right: 5px;">Hi, I'm Shamayal!</h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQzODE4NDhhZjVkOThhMWJhOGJlODZhZTA1OGVjYzJkZDBkM2Y1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UnyblOs6hGx9Mli7jq/giphy.gif" width="65" alt="GIF">
-</div>
+# Hi, I'm Shamayal! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQzODE4NDhhZjVkOThhMWJhOGJlODZhZTA1OGVjYzJkZDBkM2Y1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UnyblOs6hGx9Mli7jq/giphy.gif" width="25" alt="GIF">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamayal-syed/)
 [![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shamayal.me/)
